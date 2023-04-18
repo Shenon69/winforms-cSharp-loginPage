@@ -1,0 +1,12 @@
+C:\Users\DVM\source\repos\winforms-cSharp-loginPage\loginPageDemo\loginPageDemo\bin\Debug\loginPageDemo.exe.config
+C:\Users\DVM\source\repos\winforms-cSharp-loginPage\loginPageDemo\loginPageDemo\bin\Debug\loginPageDemo.exe
+C:\Users\DVM\source\repos\winforms-cSharp-loginPage\loginPageDemo\loginPageDemo\bin\Debug\loginPageDemo.pdb
+C:\Users\DVM\source\repos\winforms-cSharp-loginPage\loginPageDemo\loginPageDemo\obj\Debug\loginPageDemo.csproj.AssemblyReference.cache
+C:\Users\DVM\source\repos\winforms-cSharp-loginPage\loginPageDemo\loginPageDemo\obj\Debug\loginPageDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\DVM\source\repos\winforms-cSharp-loginPage\loginPageDemo\loginPageDemo\obj\Debug\loginPageDemo.Form1.resources
+C:\Users\DVM\source\repos\winforms-cSharp-loginPage\loginPageDemo\loginPageDemo\obj\Debug\loginPageDemo.Properties.Resources.resources
+C:\Users\DVM\source\repos\winforms-cSharp-loginPage\loginPageDemo\loginPageDemo\obj\Debug\loginPageDemo.csproj.GenerateResource.cache
+C:\Users\DVM\source\repos\winforms-cSharp-loginPage\loginPageDemo\loginPageDemo\obj\Debug\loginPageDemo.csproj.CoreCompileInputs.cache
+C:\Users\DVM\source\repos\winforms-cSharp-loginPage\loginPageDemo\loginPageDemo\obj\Debug\loginPageDemo.exe
+C:\Users\DVM\source\repos\winforms-cSharp-loginPage\loginPageDemo\loginPageDemo\obj\Debug\loginPageDemo.pdb
+C:\Users\DVM\source\repos\winforms-cSharp-loginPage\loginPageDemo\loginPageDemo\obj\Debug\loginPageDemo.Form2.resources
