@@ -40,7 +40,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(69, 95);
+            this.label1.Location = new System.Drawing.Point(69, 151);
             this.label1.Margin = new System.Windows.Forms.Padding(60, 0, 3, 0);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(35, 13);
@@ -51,7 +51,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(69, 176);
+            this.label2.Location = new System.Drawing.Point(69, 232);
             this.label2.Margin = new System.Windows.Forms.Padding(60, 30, 3, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(63, 13);
@@ -62,7 +62,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(69, 257);
+            this.label3.Location = new System.Drawing.Point(69, 313);
             this.label3.Margin = new System.Windows.Forms.Padding(60, 30, 3, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(36, 13);
@@ -71,15 +71,16 @@
             // 
             // txtName
             // 
-            this.txtName.Location = new System.Drawing.Point(72, 123);
+            this.txtName.Location = new System.Drawing.Point(72, 179);
             this.txtName.Margin = new System.Windows.Forms.Padding(60, 15, 60, 3);
             this.txtName.Name = "txtName";
             this.txtName.Size = new System.Drawing.Size(263, 20);
             this.txtName.TabIndex = 3;
+            this.txtName.TextChanged += new System.EventHandler(this.txtName_TextChanged);
             // 
             // txtDesignation
             // 
-            this.txtDesignation.Location = new System.Drawing.Point(72, 204);
+            this.txtDesignation.Location = new System.Drawing.Point(72, 260);
             this.txtDesignation.Margin = new System.Windows.Forms.Padding(60, 15, 60, 3);
             this.txtDesignation.Name = "txtDesignation";
             this.txtDesignation.Size = new System.Drawing.Size(263, 20);
@@ -87,7 +88,7 @@
             // 
             // txtSalary
             // 
-            this.txtSalary.Location = new System.Drawing.Point(72, 285);
+            this.txtSalary.Location = new System.Drawing.Point(72, 341);
             this.txtSalary.Margin = new System.Windows.Forms.Padding(60, 15, 60, 3);
             this.txtSalary.Name = "txtSalary";
             this.txtSalary.Size = new System.Drawing.Size(263, 20);
@@ -98,7 +99,7 @@
             this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.button1.Location = new System.Drawing.Point(158, 338);
+            this.button1.Location = new System.Drawing.Point(158, 394);
             this.button1.Margin = new System.Windows.Forms.Padding(3, 30, 3, 3);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
